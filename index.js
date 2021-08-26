@@ -1,0 +1,1 @@
+alert ("Su hermosura es demasiada para esta pagina")
